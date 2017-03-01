@@ -30,9 +30,6 @@ public class MainActivity extends AppCompatActivity {
         list.add(R.mipmap.ic_launcher);
         list.add(R.mipmap.ic_launcher);
         list.add(R.mipmap.ic_launcher);
-
-        list.add(R.mipmap.ic_launcher);
-        list.add(R.mipmap.ic_launcher);
         list.add(R.mipmap.ic_launcher);
         list.add(R.mipmap.ic_launcher);
         list.add(R.mipmap.ic_launcher);
