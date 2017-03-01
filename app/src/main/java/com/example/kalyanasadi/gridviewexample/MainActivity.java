@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
         list.add(R.mipmap.ic_launcher);
 
 
+        list.add(R.drawable.dc);
+
+
         GridView imgGrid= (GridView) findViewById(R.id.gridView);
         CustomGrid adapter = new CustomGrid(MainActivity.this, list);
         imgGrid.setAdapter(adapter);
